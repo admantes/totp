@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "guOZlajKTWxfZUSvyyX9Y8Jv5BELROHmuU1KAHO6YGs=",
+  "Source": "TOTPTester",
+  "BasePath": "_content/TOTPTester",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
